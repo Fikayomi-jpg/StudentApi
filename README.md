@@ -40,13 +40,10 @@ A full-stack Student Management System built with *ASP.NET Core Web API* and *Re
 ## Screenshots
 
 ### Login / Registration
-![Login and Registration](Frontend login.png)
+![Login and Registration](Frontendlogin.png)
 
 ### Student Dashboard
 ![Student Dashboard](Frontend.png)
 
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin.png)
-
 ### Swagger API
-![Swagger API](screenshots/swagger.png)
+![Swagger API](StudentApiSwagger.png)
